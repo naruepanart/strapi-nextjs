@@ -105,7 +105,7 @@ coverage
 ############################
 # Strapi
 ############################
-.env.local
+
 exports
 .cache
 build
